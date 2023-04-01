@@ -1,0 +1,12 @@
+this program is built to demonstrate ideal gas law by fixing gas Temperature and changing gas volume.
+as you might know, even the volume is changed, pressure increases so P * V don't change.
+if you change number of gas particles, P * V value will be stable much more.
+
+Chemistry_basic.py:
+    displaying gas particles by small spheres
+    gas Pressure: the number of each sphere hitting top red box divided by time
+    gas Volume: the size of inner space. normal: 12 * 12 = 144
+
+Chemistry_mole_fraction.py:
+    displaying two types of gas particles, red and blue one
+    each particle changes different type of gas Pressure and Volume.
